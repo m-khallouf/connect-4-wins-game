@@ -9,5 +9,3 @@ GUI-based Interface: Play the game in a GUI-based environment.
 Two-Player Mode: Play against a friend and take turns making moves.
 Winning Detection: The game automatically detects and declares a winner when a player connects four discs.
 Column Selection: on Mouse movement.
-
-THIS IS NEWWWWWWWWWWWsjhfsdf
